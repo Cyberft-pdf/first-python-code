@@ -1,0 +1,10 @@
+strana = 128
+print("*" * 30)
+print("Ahoj světe!")
+print("-" * 30)
+print("já umím matematiku!")
+print("-" * 30)
+print("Obvod se stranou", strana, "je", 4 * strana, "cm")
+print("Obsah se stranou", strana, "je", strana * strana, "cm2")
+print("/" * 30)  
+print("*" * 30)
